@@ -1,0 +1,18 @@
+{
+  "version": "1.0.6",
+  "minimum_supported_version": "1.0.6",
+  "schema_version": 17,
+  "release_date": "2026-10-04",
+  "release_notes": "TradePOS V1.0.6 稳定版。包含收银员整单优惠、分类优惠配置、登录体验优化，以及整单优惠模式输入残留和关窗取消问题修复。V1.0.5 门店需先通过受控离线升级切换生产信任链；V1.0.6 起使用正式在线更新。",
+  "package_url": "https://github.com/xuefei117/TradePOS-Updates/releases/download/production-v1.0.6/TradePOS-v1.0.6-win-x64.zip",
+  "package_size": 74289976,
+  "sha256": "b7fb69d92b456469835b25f0a2e0395176f9b8f69f42fe93b1c302085bb1eb15",
+  "mandatory": false,
+  "updater_min_version": "1.0.6",
+  "build_id": "v1.0.6-20261004072204-712ae668",
+  "git_commit": "712ae668675a1a5e8805af5b97d2df2f19b62e85",
+  "data_policy": "preserve",
+  "key_id": "tradepos-production-2026-v1",
+  "signature_algorithm": "Ed25519",
+  "manifest_signature": "u7I692LH+Qz7wUEcZVc8tG1qSH1VeyWEGcD1cMMWZ/UloaqsIsMtF5YKBsHTS62zVIsNnXZFU43xM69xhGfFCA=="
+}
