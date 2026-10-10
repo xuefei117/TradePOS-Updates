@@ -1,0 +1,18 @@
+{
+  "version": "1.0.7",
+  "minimum_supported_version": "1.0.4",
+  "schema_version": 20,
+  "release_date": "2026-10-10",
+  "release_notes": "V1.0.7 门店测试升级版：\n· 修复支付金额一致性，现金找零与非现金支付按实际应收准确入账\n· 修复会员费现金交班统计，会员费与商品销售收入继续分离\n· 修复积分抵扣金额与积分扣减不一致问题\n· 加强会员储值、权益和积分并发结算及账户流水一致性\n· 会员续费、升级时保留剩余权益，不再清零\n· 支持有效期内半年会员补差价升级年度会员\n· 本版本数据库结构版本：Schema 20\n\n已知风险：多收银终端极端同秒创建销售时，销售单号可能冲突；冲突交易会完整回滚，需要重新提交。",
+  "package_url": "https://github.com/xuefei117/TradePOS-Updates/releases/download/test-v1.0.7-r4-20261010/TradePOS-update-v1.0.7.zip",
+  "package_size": 81646434,
+  "sha256": "4dd8dc22fe6aed3e249344943b30dc4efc9df08b709c1bf9f596272600c8d309",
+  "mandatory": false,
+  "updater_min_version": "1.0.5",
+  "build_id": "v1.0.7-20261010010546-2c7ff0f3",
+  "git_commit": "2c7ff0f30e23e5aab96e3868c22c74d3384f0d11",
+  "data_policy": "preserve",
+  "key_id": "tradepos-production-2026-v1",
+  "signature_algorithm": "Ed25519",
+  "manifest_signature": "byp5VdYbqhqviieyJqk2X0IrOFTi9PsuAyZ4hU9sX95mXx5rXz7xUe5I3lBSkhhEnbwZIfPVFBCjoC+CZ1ptCQ=="
+}
