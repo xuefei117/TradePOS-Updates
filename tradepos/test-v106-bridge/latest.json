@@ -1,1 +1,19 @@
+{
+  "version": "1.0.6",
+  "minimum_supported_version": "1.0.6",
+  "schema_version": 17,
+  "release_date": "2026-10-10",
+  "release_notes": "TEST ONLY: V1.0.6 Schema 17 updater bridge prototype; no business migration.",
+  "package_url": "https://github.com/xuefei117/TradePOS-Updates/releases/download/test-v1.0.6-bridge-20261010/TradePOS-update-v1.0.6-bridge-test.zip",
+  "package_size": 52715462,
+  "sha256": "c3efadb1daa3c860667627006285bc33fd6cbd22f74abd9481610354e21cfc01",
+  "mandatory": false,
+  "updater_min_version": "1.0.5",
+  "build_id": "v1.0.6-bridge-20261010-e1dffa58",
+  "git_commit": "712ae668675a1a5e8805af5b97d2df2f19b62e85",
+  "data_policy": "preserve",
+  "key_id": "tradepos-production-2026-v1",
+  "signature_algorithm": "Ed25519",
+  "manifest_signature": "v6nTIhp22e7bHP0WW/5ey49p2qSRRf+e+vkCJi7GOv713PCHdUCOg8HiOoZlfRtU+oO/QNGs7cUgToVO7M+zBg=="
+}
 
