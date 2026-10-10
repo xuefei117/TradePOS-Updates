@@ -1,0 +1,18 @@
+{
+  "version": "1.0.8",
+  "minimum_supported_version": "1.0.7",
+  "schema_version": 20,
+  "release_date": "2026-10-11",
+  "release_notes": "TEST ONLY: V1.0.7 Bridge to V1.0.8, Schema 17 to 20 migration-contract validation. Isolated test only. Do not deploy to stores.",
+  "package_url": "https://github.com/xuefei117/TradePOS-Updates/releases/download/test-v1.0.8-contract-20261011/TradePOS-update-v1.0.8-test.zip",
+  "package_size": 81656104,
+  "sha256": "897a1a3bcf730aa3ae6c944325010898fe706ce15295029a460540ea8460204e",
+  "mandatory": false,
+  "updater_min_version": "1.0.5",
+  "build_id": "v1.0.8-20261010154036-2c7ff0f3",
+  "git_commit": "2c7ff0f30e23e5aab96e3868c22c74d3384f0d11",
+  "data_policy": "preserve",
+  "key_id": "tradepos-production-2026-v1",
+  "signature_algorithm": "Ed25519",
+  "manifest_signature": "HPgotvqwziMsGvBLeWhhFcm7sh7kQ+80C8+GzebKwmioK1RYdflfaK6G0zhJUUoQm9vHWkL/9jhvsVrxoueGAA=="
+}
