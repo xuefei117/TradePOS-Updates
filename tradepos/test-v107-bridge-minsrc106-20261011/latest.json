@@ -1,0 +1,18 @@
+{
+  "version": "1.0.7",
+  "minimum_supported_version": "1.0.6",
+  "schema_version": 17,
+  "release_date": "2026-10-11",
+  "release_notes": "TEST ONLY: V1.0.7 Bridge, Schema 17, minimum source V1.0.6; preserve store data.",
+  "package_url": "https://github.com/xuefei117/TradePOS-Updates/releases/download/test-v1.0.7-bridge-minsrc106-20261011/TradePOS-update-v1.0.7-bridge-minsrc106-test.zip",
+  "package_size": 68697878,
+  "sha256": "47ca34f397796e8f9376c3079df5402621b67effc24ddfaa08b5d3d7206226f7",
+  "mandatory": false,
+  "updater_min_version": "1.0.5",
+  "build_id": "v1.0.7-20261010153807-712ae668",
+  "git_commit": "712ae668675a1a5e8805af5b97d2df2f19b62e85",
+  "data_policy": "preserve",
+  "key_id": "tradepos-production-2026-v1",
+  "signature_algorithm": "Ed25519",
+  "manifest_signature": "jx/zMvN4mW8DqYOQvb1NE9CoK8faxbv0mJebW/e+VE2DQoUGt0Y3FHIssTXZ9dc3RII6o9zfeVXbsYxY3eb9Ag=="
+}
